@@ -14,13 +14,13 @@ Tormenting Kotlin and Android SDK.
 - [ ] **2 Day:** Basic syntax in Kotlin.
   - Control flow statements
   - Functions in Kotlin
-  - Structurs
+  - Structures
   - OOP
 
-- [ ] **3 Day:** Practise Kotlin.
+- [ ] **3 Day:** Practice Kotlin.
   - LeetCode tasks solve
 
-- [ ] **4 Day:** Syntax sugar. Practise Kotlin
+- [ ] **4 Day:** Syntax sugar. Practice Kotlin
   - Using destructuring declarations
   - Lambda expressions
   - Extension functions and properties
@@ -41,7 +41,7 @@ Tormenting Kotlin and Android SDK.
   - Handling user input and events in Compose
   - Creating a basic UI with Compose
 
-- [ ] **7 Day:** Advanced Android Develop. State-managment
+- [ ] **7 Day:** Advanced Android Develop. State-management
   - Introduction to state management in Android
   - Explore LiveData and ViewModel for managing UI state
   - Implement data persistence with Room Database
@@ -56,7 +56,7 @@ Tormenting Kotlin and Android SDK.
   - Understand property animations for custom animations
   - Layout project
 
-- [ ] **9 Day:** Architecture best practise
+- [ ] **9 Day:** Architecture best practice
   - Introduction to software architecture in Android
   - Implement the MVVM pattern in an Android project
   - Learn about dependency injection frameworks (e.g., Dagger, Koin)
