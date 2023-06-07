@@ -4,12 +4,14 @@ Tormenting Kotlin and Android SDK.
 
 ## Plan
 
-- [ ] **1 Day:** Setup and introduction to Kotlin
+- [x] **1 Day:** Setup and introduction to Kotlin
   - Setup Android Studio
   - Introduce in Kotlin
   - Variables
   - Types
   - Operations
+  
+  Source: [100-seconds](https://www.youtube.com/watch?v=xT8oP0wy-A0), [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html)
 
 - [ ] **2 Day:** Basic syntax in Kotlin.
   - Control flow statements
