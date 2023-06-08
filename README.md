@@ -10,17 +10,21 @@ Tormenting Kotlin and Android SDK.
   - Variables
   - Types
   - Operations
-  
-  Source: [100-seconds](https://www.youtube.com/watch?v=xT8oP0wy-A0), [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html)
 
-- [ ] **2 Day:** Basic syntax in Kotlin.
+  Source: [100-seconds](https://www.youtube.com/watch?v=xT8oP0wy-A0)
+  , [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html)
+
+- [x] **2 Day:** Basic syntax in Kotlin.
   - Control flow statements
   - Functions in Kotlin
   - Structures
-  - OOP
 
-- [ ] **3 Day:** Practice Kotlin.
+  Source: [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-collections.html)
+  , [Ask questions](https://stackoverflow.com/)
+
+- [ ] **3 Day:** OOP. Practice Kotlin.
   - LeetCode tasks solve
+  - OOP
 
 - [ ] **4 Day:** Syntax sugar. Practice Kotlin
   - Using destructuring declarations
