@@ -12,19 +12,27 @@ Tormenting Kotlin and Android SDK.
   - Operations
 
   Source: [100-seconds](https://www.youtube.com/watch?v=xT8oP0wy-A0)
-  , [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html)
+  , [Kotlin Tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html)
 
 - [x] **2 Day:** Basic syntax in Kotlin.
   - Control flow statements
   - Functions in Kotlin
   - Structures
 
-  Source: [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-collections.html)
+  Source: [Kotlin Tour](https://kotlinlang.org/docs/kotlin-tour-collections.html)
   , [Ask questions](https://stackoverflow.com/)
 
-- [ ] **3 Day:** OOP. Practice Kotlin.
+- [x] **3 Day:** OOP. Practice Kotlin.
   - LeetCode tasks solve
   - OOP
+
+  Source: [Kotlin Tour](https://kotlinlang.org/docs/kotlin-tour-classes.html)
+  , [Classes](https://kotlinlang.org/docs/classes.html)
+  , [About constructors in simple](https://www.baeldung.com/kotlin/constructors)
+  , [More about constructors](https://www.programiz.com/kotlin-programming/constructors)
+  , [Inheritance](https://kotlinlang.org/docs/inheritance.html)
+  , [Properties](https://kotlinlang.org/docs/properties.html#late-initialized-properties-and-variables)
+  , [Interfaces](https://kotlinlang.org/docs/interfaces.html),
 
 - [ ] **4 Day:** Syntax sugar. Practice Kotlin
   - Using destructuring declarations
