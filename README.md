@@ -34,11 +34,21 @@ Tormenting Kotlin and Android SDK.
   , [Properties](https://kotlinlang.org/docs/properties.html#late-initialized-properties-and-variables)
   , [Interfaces](https://kotlinlang.org/docs/interfaces.html),
 
-- [ ] **4 Day:** Syntax sugar. Practice Kotlin
+- [x] **4 Day:** Syntax sugar. Practice Kotlin
   - Using destructuring declarations
   - Lambda expressions
   - Extension functions and properties
   - LeetCode tasks solve
+
+  Source: [Lambda](https://kotlinlang.org/docs/lambdas.html#function-literals-with-receiver)
+  , [Type Safe Builder](https://kotlinlang.org/docs/type-safe-builders.html)
+  , [Extension Member](https://agrawalsuneet.github.io/blogs/extensions-as-members-kotlin/)
+  , [Delegation](https://kotlinlang.org/docs/delegation.html)
+  , [Data classes](https://kotlinlang.org/docs/data-classes.html)
+  , [SAM Interfaces](https://kotlinlang.org/docs/fun-interfaces.html)
+  , [Extensions](https://kotlinlang.org/docs/extensions.html)
+  , [Object expressions](https://kotlinlang.org/docs/object-declarations.html)
+  , [Destructuring](https://kotlinlang.org/docs/destructuring-declarations.html)
 
 - [ ] **5 Day:** Introduction to Android Develop. Setup
   - Set up Android SDK and emulators
