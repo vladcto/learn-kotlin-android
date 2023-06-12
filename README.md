@@ -51,7 +51,7 @@ Tormenting Kotlin and Android SDK.
   , [Destructuring](https://kotlinlang.org/docs/destructuring-declarations.html)
   , [Receiver](https://stackoverflow.com/questions/45875491/what-is-a-receiver-in-kotlin)
 
-- [ ] **5 Day:** Introduction to Android Develop. Setup
+- [x] **5 Day:** Introduction to Android Develop. Setup
     - Set up Android SDK and emulators
     - Navigate Android Studio IDE
     - Explore basic Android components
